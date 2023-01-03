@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**fidelord/fidelord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hi there, my name is Fidel Imasuen
 
 👋 I'm a Data Analyst and a Data Scientist ethusiast
