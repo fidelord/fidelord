@@ -4,7 +4,7 @@
 
 👀 I'm interested in Data and Business Analytics
 
-🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI and Tableau for data querrying, manipulation and visualization
+🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI and Tableau for data querying, manipulation and visualization
 
 🎥 When I'm not coding, I am watching interesting and fun youtube videos on my favourite youtube channels 
 
